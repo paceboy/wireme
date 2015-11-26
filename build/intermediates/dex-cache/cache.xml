@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/baidu/code/dlna/wireme-as/app/libs/teleal-common-1.0.13.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2763f5a53fde17552f705b0c50c010d10d0ec25d">
+        <dex dex="/Users/baidu/code/dlna/wireme-as/app/build/intermediates/pre-dexed/debug/teleal-common-1.0.13-c2e33734b9e4ed69e5b10e2abaa930780f253412.jar" />
+    </item>
+    <item
+        jar="/Users/baidu/code/dlna/wireme-as/app/libs/cling-core-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2dd006836cc2cf5597e7d038a5321f88757c9961">
+        <dex dex="/Users/baidu/code/dlna/wireme-as/app/build/intermediates/pre-dexed/debug/cling-core-1.0.3-1be691d887dd8f5981a2a338ec431527c37e106d.jar" />
+    </item>
+
+</items>
